@@ -1,0 +1,2 @@
+class AsciiClientRequestException(Exception):
+    pass
